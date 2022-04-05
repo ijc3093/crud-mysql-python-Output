@@ -31,7 +31,7 @@ crud-mysql-python-Output
 
 - Open this project in Visual Studio Code. Enjoy it as well. 
 
-#CRUD
+# CRUD
 - VIEW DATA LIST
 - DATA SEARCH
 - ADD NEW DATA
