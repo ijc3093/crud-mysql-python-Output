@@ -30,5 +30,16 @@ crud-mysql-python-Output
 - leaving the mysql running......
 
 - Open this project in Visual Studio Code. Enjoy it as well. 
+
+#CRUD
+- VIEW DATA LIST
+- DATA SEARCH
+- ADD NEW DATA
+- CHANGE DATA
+- DELETE DATA
+- EXPORT TABLE
+- IMPORT TABLE
+
+
 # Screen
 ![Screenshot](https://github.com/ijc3093/crud-mysql-python-Output/blob/master/images/Screen.png)
